@@ -1,0 +1,20 @@
+@import 'nav1.scss';
+@import 'header1.scss';
+@import 'sec1.scss';
+
+.light {
+    --bgColor: #fff;
+    --textColor: #001747;
+}
+.dark{
+    --bgColor: #001747;
+    --textColor: #fff;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
